@@ -1,4 +1,4 @@
-https://github.com/dev-extended/developeranaz-mega-index-n-ef0f48ad68a329d82c39288ff5e991c0
-https://github.com/dev-extended/developeranaz-heroku-vps-n-ade6688b765c67008bf7cf76a7f28d35
-https://github.com/dev-extended/developeranaz-qbit-heroku-n-baa5438ecdfbc65be50f8dd34cb32b5c
-https://github.com/dev-extended/developeranaz-url-mag-rclone-n-534a7f9e1d22a76b80480fae81275640
+https://github.com/dev-extended/developeranaz-mega-index-n-219f1f36c2643bfd6f93b793026fe7bf
+https://github.com/dev-extended/developeranaz-heroku-vps-n-9f37d9bc14bee8be1138ca6229862f87
+https://github.com/dev-extended/developeranaz-qbit-heroku-n-2ac25ba84a691fc373b76d59785ab8ff
+https://github.com/dev-extended/developeranaz-url-mag-rclone-n-b19b46b279bff07fdd7fcc520b68484e
