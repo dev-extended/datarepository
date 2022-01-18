@@ -2,3 +2,4 @@ https://github.com/dev-extended/developeranaz-mega-index-n-84b7e8a9cfee432fe97f2
 https://github.com/dev-extended/developeranaz-heroku-vps-n-2016b673299ac9d39047330da8678c3b
 https://github.com/dev-extended/developeranaz-qbit-heroku-n-993b9d686f32a92ab85f686686d964ec
 https://github.com/dev-extended/developeranaz-url-mag-rclone-n-eb88f9b7d5d3db66b0dc51764aa49e9f
+https://github.com/dev-extended/developeranaz-rc-serve-index-n-U43DCF1D5BC45F4572F151A9FC1516437A042A7CC6F979F8B1F6F1
