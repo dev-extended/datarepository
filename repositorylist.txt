@@ -1,7 +1,7 @@
-https://github.com/dev-extended/developeranaz-jd2-rc-n-f1fdf37046005253fb23713ae7a17dde
-https://github.com/dev-extended/developeranaz-qbit-heroku-n-f1af92adbddf110c10be480ae9328904
-https://github.com/dev-extended/developeranaz-rc-serve-index-n-a43b6cab1302332f69792f5aac922004
-https://github.com/dev-extended/developeranaz-url-mag-rclone-n-c1222c4b4ce4d25c3ea4803b039a53e0
-https://github.com/dev-extended/developeranaz-gchgg-repo-bulk-randomizer-n-5d2f2ae4fc38e18a0c0c602411d4aee6
-https://github.com/dev-extended/developeranaz-heroku-vps-n-758326119923b3672c28d7828c2f4140
-https://github.com/dev-extended/developeranaz-mega-index-n-cc825d581bef2fbb1d85796ad25df581
+https://github.com/dev-extended/developeranaz-jd2-rc-n-413cfaa1305e95242df8d0f8f63d4f0a
+https://github.com/dev-extended/developeranaz-qbit-heroku-n-4b9d5d57eafbd756eda2af84864e47d8
+https://github.com/dev-extended/developeranaz-rc-serve-index-n-35a51784f87bab9e658b02dd9a65fd69
+https://github.com/dev-extended/developeranaz-url-mag-rclone-n-a8c7513429911c8e7e2235fb182e758f
+https://github.com/dev-extended/developeranaz-gchgg-repo-bulk-randomizer-n-a4dc4448755b87a03bbd43f780b57d5a
+https://github.com/dev-extended/developeranaz-heroku-vps-n-51bb1acf5062808f34e4be81dbcb7620
+https://github.com/dev-extended/developeranaz-mega-index-n-2bd4d957ddcad5186bf3354b7c85e7ff
