@@ -1,1 +1,1 @@
-https://dashboard.heroku.com/new?template=https://github.com/dev-extended/developeranaz-heroku-vps-n-01d0abcea53ef0c0b74503f8bb6a5797
+https://dashboard.heroku.com/new?template=https://github.com/dev-extended/developeranaz-heroku-vps-n-a2c0b02dd9f3dd3dc6741bebd3bf0800
