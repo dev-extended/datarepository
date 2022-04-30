@@ -1,1 +1,1 @@
-https://dashboard.heroku.com/new?template=https://github.com/dev-extended/developeranaz-gchgg-repo-bulk-randomizer-n-a89e218e16708f575b3b3f28a37d8e9d
+https://dashboard.heroku.com/new?template=https://github.com/dev-extended/developeranaz-gchgg-repo-bulk-randomizer-n-4bbde75bf1661876f8c5743ba1d0d95b
