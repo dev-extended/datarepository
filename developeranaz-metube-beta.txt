@@ -1,1 +1,1 @@
-https://dashboard.heroku.com/new?template=https://github.com/dev-extended/developeranaz-metube-beta-n-2006df8886d2a662f42dcf7e36bb32db
+https://dashboard.heroku.com/new?template=https://github.com/dev-extended/developeranaz-metube-beta-n-2cdd4bdd1db48287e556e4e603a2ff45
