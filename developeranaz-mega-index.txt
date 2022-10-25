@@ -1,1 +1,1 @@
-https://dashboard.heroku.com/new?template=https://github.com/dev-extended/developeranaz-mega-index-n-0480e9e90a285a5e02b53fe0f8d89fa9
+https://dashboard.heroku.com/new?template=https://github.com/dev-extended/developeranaz-mega-index-n-77cff3e866c9ab4d62aa5d70f94ef6af
