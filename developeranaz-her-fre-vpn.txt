@@ -1,1 +1,1 @@
-https://dashboard.heroku.com/new?template=https://github.com/dev-extended/developeranaz-her-fre-vpn-n-fa5ec1820939c727a83faeebfdae2e65
+https://dashboard.heroku.com/new?template=https://github.com/dev-extended/developeranaz-her-fre-vpn-n-b94ab01ebe6e956798250c9e75e373dd
